@@ -49,6 +49,7 @@ This code was tested with Python 3.6, PyTorch 0.4.1, and CUDA 8.0/9.0.
    ...
    ```
 2. Setup the configs/config.yaml file.
+
 3. Train the model.
    ```
     ./scripts/train.sh
