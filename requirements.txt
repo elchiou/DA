@@ -1,0 +1,8 @@
+numpy
+dominate
+collections
+matplotlib
+skimage
+yaml
+tensorboardX
+random
