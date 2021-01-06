@@ -1,10 +1,10 @@
 # Harnessing Uncertainty in Domain Adaptation for MRI Prostate Lesion Segmentation
 ![](./imgs/sample.png) ![](./imgs/transl_samples.gif)
 
-This is the implementation (in PyTorch) of the following paper
-[Harnessing Uncertainty in Domain Adaptation for MRI Prostate Lesion Segmentation](https://arxiv.org/abs/2010.07411)
-Eleni Chiou, Francesco Giganti, Shonit Punwani, Iasonas Kokkinos, Eleftheria Panagiotaki
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020
+This is the implementation (in PyTorch) of the following paper \
+[Harnessing Uncertainty in Domain Adaptation for MRI Prostate Lesion Segmentation](https://arxiv.org/abs/2010.07411) \
+Eleni Chiou, Francesco Giganti, Shonit Punwani, Iasonas Kokkinos, Eleftheria Panagiotaki \
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020.
 
 If you find this code useful for your research, please cite our paper:
 
